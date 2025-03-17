@@ -1,0 +1,12 @@
+/UserSettings/
+/Library/
+/Temp/
+/obj/
+/.vs/
+*.Editor.csproj
+*.csproj
+*.sln
+/Logs/
+/remote_config_data
+/.vscode/
+/New Unity Project/
